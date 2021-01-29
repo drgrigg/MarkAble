@@ -1,6 +1,6 @@
 # MarkAble
  
-I've decided to open source this software as I'm no longer in a position to maintain it. It's written in C#. Please note that I can't assist with your implementation on your own system other than wish you good luck!
+I've decided to open source this software as I'm no longer in a position to maintain it. It's written in C#. Please note that I can't assist with your implementation on your own system other than wish you good luck! It requires you to have Apple's iTunes for Windows installed, as it depends on controlling iTunes to do its work.
 
 --------
 
