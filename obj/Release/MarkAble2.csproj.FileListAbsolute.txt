@@ -1,0 +1,312 @@
+C:\VSProjects\Markable2\trunk\MarkAble2\obj\Release\Interop.iTunesLib.dll
+C:\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.csproj.ResolveComReference.cache
+C:\VSProjects\Markable2\trunk\MarkAble2\bin\Release\MarkAble2.exe
+C:\VSProjects\Markable2\trunk\MarkAble2\bin\Release\MarkAble2.pdb
+C:\VSProjects\Markable2\trunk\MarkAble2\bin\Release\AAClib.dll
+C:\VSProjects\Markable2\trunk\MarkAble2\bin\Release\WMFSDKWrapper.dll
+C:\VSProjects\Markable2\trunk\MarkAble2\bin\Release\Interop.iTunesLib.dll
+C:\VSProjects\Markable2\trunk\MarkAble2\obj\Release\ResolveAssemblyReference.cache
+C:\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmAsk.resources
+C:\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmBatch.resources
+C:\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmOptions.resources
+C:\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmSelectTracks.resources
+C:\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmSeparateMergeChap.resources
+C:\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmRegister.resources
+C:\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmSeparateProcess.resources
+C:\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmSeparate3.resources
+C:\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmSeparate2.resources
+C:\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmCDinfo.resources
+C:\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmCDprocess.resources
+C:\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmIntro.resources
+C:\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmMergeAndChapter.resources
+C:\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmMergeProcess.resources
+C:\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmSeparate1.resources
+C:\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmSplash.resources
+C:\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.Properties.Resources.resources
+C:\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.csproj.GenerateResource.Cache
+C:\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.exe
+C:\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.pdb
+C:\VSProjects\Markable2\trunk\MarkAble2\bin\Release\de\MarkAble2.resources.dll
+C:\VSProjects\Markable2\trunk\MarkAble2\bin\Release\en\MarkAble2.resources.dll
+C:\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmAsk.de.resources
+C:\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmBatch.de.resources
+C:\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmCDinfo.de.resources
+C:\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmCDprocess.de.resources
+C:\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmIntro.de.resources
+C:\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmIntro.en.resources
+C:\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmMergeAndChapter.de.resources
+C:\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmMergeProcess.de.resources
+C:\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmOptions.de.resources
+C:\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmRegister.de.resources
+C:\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmSelectTracks.de.resources
+C:\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmSeparate1.de.resources
+C:\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmSeparate2.de.resources
+C:\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmSeparate3.de.resources
+C:\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmSeparateMergeChap.de.resources
+C:\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmSeparateProcess.de.resources
+C:\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmSplash.de.resources
+C:\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.Properties.Resources.de.resources
+C:\VSProjects\Markable2\trunk\MarkAble2\obj\Release\de\MarkAble2.resources.dll
+C:\VSProjects\Markable2\trunk\MarkAble2\obj\Release\en\MarkAble2.resources.dll
+C:\VSProjects\Markable2\trunk\MarkAble2\bin\Release\MarkAble2.exe.config
+C:\Users\david\My Dropbox\Current Projects\VSProjects - DO NOT DELETE\Markable2\trunk\MarkAble2\bin\Release\MarkAble2.exe.config
+C:\Users\david\My Dropbox\Current Projects\VSProjects - DO NOT DELETE\Markable2\trunk\MarkAble2\obj\Release\Interop.iTunesLib.dll
+C:\Users\david\My Dropbox\Current Projects\VSProjects - DO NOT DELETE\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.csproj.ResolveComReference.cache
+C:\Users\david\My Dropbox\Current Projects\VSProjects - DO NOT DELETE\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.exe
+C:\Users\david\My Dropbox\Current Projects\VSProjects - DO NOT DELETE\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.pdb
+C:\Users\david\My Dropbox\Current Projects\VSProjects - DO NOT DELETE\Markable2\trunk\MarkAble2\bin\Release\MarkAble2.exe
+C:\Users\david\My Dropbox\Current Projects\VSProjects - DO NOT DELETE\Markable2\trunk\MarkAble2\bin\Release\MarkAble2.pdb
+C:\Users\david\My Dropbox\Current Projects\VSProjects - DO NOT DELETE\Markable2\trunk\MarkAble2\bin\Release\de\MarkAble2.resources.dll
+C:\Users\david\My Dropbox\Current Projects\VSProjects - DO NOT DELETE\Markable2\trunk\MarkAble2\bin\Release\en\MarkAble2.resources.dll
+C:\Users\david\My Dropbox\Current Projects\VSProjects - DO NOT DELETE\Markable2\trunk\MarkAble2\bin\Release\AAClib.dll
+C:\Users\david\My Dropbox\Current Projects\VSProjects - DO NOT DELETE\Markable2\trunk\MarkAble2\bin\Release\WMFSDKWrapper.dll
+C:\Users\david\My Dropbox\Current Projects\VSProjects - DO NOT DELETE\Markable2\trunk\MarkAble2\bin\Release\Interop.iTunesLib.dll
+C:\Users\david\My Dropbox\Current Projects\VSProjects - DO NOT DELETE\Markable2\trunk\MarkAble2\obj\Release\ResolveAssemblyReference.cache
+C:\Users\david\My Dropbox\Current Projects\VSProjects - DO NOT DELETE\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmAsk.resources
+C:\Users\david\My Dropbox\Current Projects\VSProjects - DO NOT DELETE\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmBatch.resources
+C:\Users\david\My Dropbox\Current Projects\VSProjects - DO NOT DELETE\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmOptions.resources
+C:\Users\david\My Dropbox\Current Projects\VSProjects - DO NOT DELETE\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmSelectTracks.resources
+C:\Users\david\My Dropbox\Current Projects\VSProjects - DO NOT DELETE\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmSeparateMergeChap.resources
+C:\Users\david\My Dropbox\Current Projects\VSProjects - DO NOT DELETE\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmRegister.resources
+C:\Users\david\My Dropbox\Current Projects\VSProjects - DO NOT DELETE\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmSeparateProcess.resources
+C:\Users\david\My Dropbox\Current Projects\VSProjects - DO NOT DELETE\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmSeparate3.resources
+C:\Users\david\My Dropbox\Current Projects\VSProjects - DO NOT DELETE\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmSeparate2.resources
+C:\Users\david\My Dropbox\Current Projects\VSProjects - DO NOT DELETE\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmCDinfo.resources
+C:\Users\david\My Dropbox\Current Projects\VSProjects - DO NOT DELETE\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmCDprocess.resources
+C:\Users\david\My Dropbox\Current Projects\VSProjects - DO NOT DELETE\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmIntro.resources
+C:\Users\david\My Dropbox\Current Projects\VSProjects - DO NOT DELETE\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmMergeAndChapter.resources
+C:\Users\david\My Dropbox\Current Projects\VSProjects - DO NOT DELETE\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmMergeProcess.resources
+C:\Users\david\My Dropbox\Current Projects\VSProjects - DO NOT DELETE\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmSeparate1.resources
+C:\Users\david\My Dropbox\Current Projects\VSProjects - DO NOT DELETE\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmSplash.resources
+C:\Users\david\My Dropbox\Current Projects\VSProjects - DO NOT DELETE\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.Properties.Resources.resources
+C:\Users\david\My Dropbox\Current Projects\VSProjects - DO NOT DELETE\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmAsk.de.resources
+C:\Users\david\My Dropbox\Current Projects\VSProjects - DO NOT DELETE\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmBatch.de.resources
+C:\Users\david\My Dropbox\Current Projects\VSProjects - DO NOT DELETE\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmCDinfo.de.resources
+C:\Users\david\My Dropbox\Current Projects\VSProjects - DO NOT DELETE\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmCDprocess.de.resources
+C:\Users\david\My Dropbox\Current Projects\VSProjects - DO NOT DELETE\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmIntro.de.resources
+C:\Users\david\My Dropbox\Current Projects\VSProjects - DO NOT DELETE\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmIntro.en.resources
+C:\Users\david\My Dropbox\Current Projects\VSProjects - DO NOT DELETE\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmMergeAndChapter.de.resources
+C:\Users\david\My Dropbox\Current Projects\VSProjects - DO NOT DELETE\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmMergeProcess.de.resources
+C:\Users\david\My Dropbox\Current Projects\VSProjects - DO NOT DELETE\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmOptions.de.resources
+C:\Users\david\My Dropbox\Current Projects\VSProjects - DO NOT DELETE\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmRegister.de.resources
+C:\Users\david\My Dropbox\Current Projects\VSProjects - DO NOT DELETE\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmSelectTracks.de.resources
+C:\Users\david\My Dropbox\Current Projects\VSProjects - DO NOT DELETE\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmSeparate1.de.resources
+C:\Users\david\My Dropbox\Current Projects\VSProjects - DO NOT DELETE\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmSeparate2.de.resources
+C:\Users\david\My Dropbox\Current Projects\VSProjects - DO NOT DELETE\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmSeparate3.de.resources
+C:\Users\david\My Dropbox\Current Projects\VSProjects - DO NOT DELETE\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmSeparateMergeChap.de.resources
+C:\Users\david\My Dropbox\Current Projects\VSProjects - DO NOT DELETE\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmSeparateProcess.de.resources
+C:\Users\david\My Dropbox\Current Projects\VSProjects - DO NOT DELETE\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmSplash.de.resources
+C:\Users\david\My Dropbox\Current Projects\VSProjects - DO NOT DELETE\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.Properties.Resources.de.resources
+C:\Users\david\My Dropbox\Current Projects\VSProjects - DO NOT DELETE\Markable2\trunk\MarkAble2\obj\Release\ResGen.read.1.tlog
+C:\Users\david\My Dropbox\Current Projects\VSProjects - DO NOT DELETE\Markable2\trunk\MarkAble2\obj\Release\ResGen.write.1.tlog
+C:\Users\david\My Dropbox\Current Projects\VSProjects - DO NOT DELETE\Markable2\trunk\MarkAble2\obj\Release\de\MarkAble2.resources.dll
+C:\Users\david\My Dropbox\Current Projects\VSProjects - DO NOT DELETE\Markable2\trunk\MarkAble2\obj\Release\en\MarkAble2.resources.dll
+C:\Users\David\Dropbox\Current Projects\VSProjects - DO NOT DELETE\Markable2\trunk\MarkAble2\bin\Release\MarkAble2.exe.config
+C:\Users\David\Dropbox\Current Projects\VSProjects - DO NOT DELETE\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.csproj.ResolveComReference.cache
+C:\Users\David\Dropbox\Current Projects\VSProjects - DO NOT DELETE\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.exe
+C:\Users\David\Dropbox\Current Projects\VSProjects - DO NOT DELETE\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.pdb
+C:\Users\David\Dropbox\Current Projects\VSProjects - DO NOT DELETE\Markable2\trunk\MarkAble2\obj\Release\Interop.iTunesLib.dll
+C:\Users\David\Dropbox\Current Projects\VSProjects - DO NOT DELETE\Markable2\trunk\MarkAble2\bin\Release\MarkAble2.exe
+C:\Users\David\Dropbox\Current Projects\VSProjects - DO NOT DELETE\Markable2\trunk\MarkAble2\bin\Release\MarkAble2.pdb
+C:\Users\David\Dropbox\Current Projects\VSProjects - DO NOT DELETE\Markable2\trunk\MarkAble2\bin\Release\de\MarkAble2.resources.dll
+C:\Users\David\Dropbox\Current Projects\VSProjects - DO NOT DELETE\Markable2\trunk\MarkAble2\bin\Release\en\MarkAble2.resources.dll
+C:\Users\David\Dropbox\Current Projects\VSProjects - DO NOT DELETE\Markable2\trunk\MarkAble2\bin\Release\AAClib.dll
+C:\Users\David\Dropbox\Current Projects\VSProjects - DO NOT DELETE\Markable2\trunk\MarkAble2\bin\Release\WMFSDKWrapper.dll
+C:\Users\David\Dropbox\Current Projects\VSProjects - DO NOT DELETE\Markable2\trunk\MarkAble2\bin\Release\Interop.iTunesLib.dll
+C:\Users\David\Dropbox\Current Projects\VSProjects - DO NOT DELETE\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmAsk.resources
+C:\Users\David\Dropbox\Current Projects\VSProjects - DO NOT DELETE\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmBatch.resources
+C:\Users\David\Dropbox\Current Projects\VSProjects - DO NOT DELETE\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmOptions.resources
+C:\Users\David\Dropbox\Current Projects\VSProjects - DO NOT DELETE\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmSelectTracks.resources
+C:\Users\David\Dropbox\Current Projects\VSProjects - DO NOT DELETE\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmSeparateMergeChap.resources
+C:\Users\David\Dropbox\Current Projects\VSProjects - DO NOT DELETE\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmRegister.resources
+C:\Users\David\Dropbox\Current Projects\VSProjects - DO NOT DELETE\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmSeparateProcess.resources
+C:\Users\David\Dropbox\Current Projects\VSProjects - DO NOT DELETE\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmSeparate3.resources
+C:\Users\David\Dropbox\Current Projects\VSProjects - DO NOT DELETE\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmSeparate2.resources
+C:\Users\David\Dropbox\Current Projects\VSProjects - DO NOT DELETE\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmCDinfo.resources
+C:\Users\David\Dropbox\Current Projects\VSProjects - DO NOT DELETE\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmCDprocess.resources
+C:\Users\David\Dropbox\Current Projects\VSProjects - DO NOT DELETE\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmIntro.resources
+C:\Users\David\Dropbox\Current Projects\VSProjects - DO NOT DELETE\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmMergeAndChapter.resources
+C:\Users\David\Dropbox\Current Projects\VSProjects - DO NOT DELETE\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmMergeProcess.resources
+C:\Users\David\Dropbox\Current Projects\VSProjects - DO NOT DELETE\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmSeparate1.resources
+C:\Users\David\Dropbox\Current Projects\VSProjects - DO NOT DELETE\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmSplash.resources
+C:\Users\David\Dropbox\Current Projects\VSProjects - DO NOT DELETE\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.Properties.Resources.resources
+C:\Users\David\Dropbox\Current Projects\VSProjects - DO NOT DELETE\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmAsk.de.resources
+C:\Users\David\Dropbox\Current Projects\VSProjects - DO NOT DELETE\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmBatch.de.resources
+C:\Users\David\Dropbox\Current Projects\VSProjects - DO NOT DELETE\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmCDinfo.de.resources
+C:\Users\David\Dropbox\Current Projects\VSProjects - DO NOT DELETE\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmCDprocess.de.resources
+C:\Users\David\Dropbox\Current Projects\VSProjects - DO NOT DELETE\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmIntro.de.resources
+C:\Users\David\Dropbox\Current Projects\VSProjects - DO NOT DELETE\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmIntro.en.resources
+C:\Users\David\Dropbox\Current Projects\VSProjects - DO NOT DELETE\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmMergeAndChapter.de.resources
+C:\Users\David\Dropbox\Current Projects\VSProjects - DO NOT DELETE\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmMergeProcess.de.resources
+C:\Users\David\Dropbox\Current Projects\VSProjects - DO NOT DELETE\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmOptions.de.resources
+C:\Users\David\Dropbox\Current Projects\VSProjects - DO NOT DELETE\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmRegister.de.resources
+C:\Users\David\Dropbox\Current Projects\VSProjects - DO NOT DELETE\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmSelectTracks.de.resources
+C:\Users\David\Dropbox\Current Projects\VSProjects - DO NOT DELETE\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmSeparate1.de.resources
+C:\Users\David\Dropbox\Current Projects\VSProjects - DO NOT DELETE\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmSeparate2.de.resources
+C:\Users\David\Dropbox\Current Projects\VSProjects - DO NOT DELETE\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmSeparate3.de.resources
+C:\Users\David\Dropbox\Current Projects\VSProjects - DO NOT DELETE\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmSeparateMergeChap.de.resources
+C:\Users\David\Dropbox\Current Projects\VSProjects - DO NOT DELETE\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmSeparateProcess.de.resources
+C:\Users\David\Dropbox\Current Projects\VSProjects - DO NOT DELETE\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmSplash.de.resources
+C:\Users\David\Dropbox\Current Projects\VSProjects - DO NOT DELETE\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.Properties.Resources.de.resources
+C:\Users\David\Dropbox\Current Projects\VSProjects - DO NOT DELETE\Markable2\trunk\MarkAble2\obj\Release\de\MarkAble2.resources.dll
+C:\Users\David\Dropbox\Current Projects\VSProjects - DO NOT DELETE\Markable2\trunk\MarkAble2\obj\Release\en\MarkAble2.resources.dll
+C:\Users\David\Dropbox\Current Projects\VSProjects - DO NOT DELETE\Markable2\trunk\MarkAble2\obj\Release\ResolveAssemblyReference.cache
+C:\Users\David\Dropbox\Current Projects\VSProjects - DO NOT DELETE\Markable2\trunk\MarkAble2\obj\Release\ResGen.read.1.tlog
+C:\Users\David\Dropbox\Current Projects\VSProjects - DO NOT DELETE\Markable2\trunk\MarkAble2\obj\Release\ResGen.write.1.tlog
+C:\Users\David\Dropbox\Current Projects\VSProjects - DO NOT DELETE\Markable2\trunk\MarkAble2\bin\Release\AAClib.pdb
+C:\Users\david\Dropbox\VSProjects\Markable2\trunk\MarkAble2\bin\Release\MarkAble2.exe.config
+C:\Users\david\Dropbox\VSProjects\Markable2\trunk\MarkAble2\obj\Release\Interop.iTunesLib.dll
+C:\Users\david\Dropbox\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.csproj.ResolveComReference.cache
+C:\Users\david\Dropbox\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.exe
+C:\Users\david\Dropbox\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.pdb
+C:\Users\david\Dropbox\VSProjects\Markable2\trunk\MarkAble2\bin\Release\MarkAble2.exe
+C:\Users\david\Dropbox\VSProjects\Markable2\trunk\MarkAble2\bin\Release\MarkAble2.pdb
+C:\Users\david\Dropbox\VSProjects\Markable2\trunk\MarkAble2\bin\Release\de\MarkAble2.resources.dll
+C:\Users\david\Dropbox\VSProjects\Markable2\trunk\MarkAble2\bin\Release\en\MarkAble2.resources.dll
+C:\Users\david\Dropbox\VSProjects\Markable2\trunk\MarkAble2\bin\Release\AAClib.dll
+C:\Users\david\Dropbox\VSProjects\Markable2\trunk\MarkAble2\bin\Release\WMFSDKWrapper.dll
+C:\Users\david\Dropbox\VSProjects\Markable2\trunk\MarkAble2\bin\Release\AAClib.pdb
+C:\Users\david\Dropbox\VSProjects\Markable2\trunk\MarkAble2\bin\Release\Interop.iTunesLib.dll
+C:\Users\david\Dropbox\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.csprojResolveAssemblyReference.cache
+C:\Users\david\Dropbox\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmAsk.resources
+C:\Users\david\Dropbox\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmBatch.resources
+C:\Users\david\Dropbox\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmOptions.resources
+C:\Users\david\Dropbox\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmSelectTracks.resources
+C:\Users\david\Dropbox\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmSeparateMergeChap.resources
+C:\Users\david\Dropbox\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmRegister.resources
+C:\Users\david\Dropbox\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmSeparateProcess.resources
+C:\Users\david\Dropbox\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmSeparate3.resources
+C:\Users\david\Dropbox\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmSeparate2.resources
+C:\Users\david\Dropbox\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmCDinfo.resources
+C:\Users\david\Dropbox\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmCDprocess.resources
+C:\Users\david\Dropbox\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmIntro.resources
+C:\Users\david\Dropbox\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmMergeAndChapter.resources
+C:\Users\david\Dropbox\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmMergeProcess.resources
+C:\Users\david\Dropbox\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmSeparate1.resources
+C:\Users\david\Dropbox\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmSplash.resources
+C:\Users\david\Dropbox\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.Properties.Resources.resources
+C:\Users\david\Dropbox\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmAsk.de.resources
+C:\Users\david\Dropbox\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmBatch.de.resources
+C:\Users\david\Dropbox\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmCDinfo.de.resources
+C:\Users\david\Dropbox\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmCDprocess.de.resources
+C:\Users\david\Dropbox\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmIntro.de.resources
+C:\Users\david\Dropbox\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmIntro.en.resources
+C:\Users\david\Dropbox\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmMergeAndChapter.de.resources
+C:\Users\david\Dropbox\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmMergeProcess.de.resources
+C:\Users\david\Dropbox\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmOptions.de.resources
+C:\Users\david\Dropbox\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmRegister.de.resources
+C:\Users\david\Dropbox\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmSelectTracks.de.resources
+C:\Users\david\Dropbox\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmSeparate1.de.resources
+C:\Users\david\Dropbox\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmSeparate2.de.resources
+C:\Users\david\Dropbox\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmSeparate3.de.resources
+C:\Users\david\Dropbox\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmSeparateMergeChap.de.resources
+C:\Users\david\Dropbox\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmSeparateProcess.de.resources
+C:\Users\david\Dropbox\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmSplash.de.resources
+C:\Users\david\Dropbox\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.Properties.Resources.de.resources
+C:\Users\david\Dropbox\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.csproj.GenerateResource.Cache
+C:\Users\david\Dropbox\VSProjects\Markable2\trunk\MarkAble2\obj\Release\de\MarkAble2.resources.dll
+C:\Users\david\Dropbox\VSProjects\Markable2\trunk\MarkAble2\obj\Release\en\MarkAble2.resources.dll
+C:\Users\David\Dropbox\Shared\Markable2 copy\trunk\MarkAble2\bin\Release\MarkAble2.exe.config
+C:\Users\David\Dropbox\Shared\Markable2 copy\trunk\MarkAble2\obj\Release\Interop.iTunesLib.dll
+C:\Users\David\Dropbox\Shared\Markable2 copy\trunk\MarkAble2\obj\Release\MarkAble2.csproj.ResolveComReference.cache
+C:\Users\David\Dropbox\Shared\Markable2 copy\trunk\MarkAble2\obj\Release\MarkAble2.exe
+C:\Users\David\Dropbox\Shared\Markable2 copy\trunk\MarkAble2\obj\Release\MarkAble2.pdb
+C:\Users\David\Dropbox\Shared\Markable2 copy\trunk\MarkAble2\bin\Release\MarkAble2.exe
+C:\Users\David\Dropbox\Shared\Markable2 copy\trunk\MarkAble2\bin\Release\MarkAble2.pdb
+C:\Users\David\Dropbox\Shared\Markable2 copy\trunk\MarkAble2\bin\Release\de\MarkAble2.resources.dll
+C:\Users\David\Dropbox\Shared\Markable2 copy\trunk\MarkAble2\bin\Release\en\MarkAble2.resources.dll
+C:\Users\David\Dropbox\Shared\Markable2 copy\trunk\MarkAble2\bin\Release\AAClib.dll
+C:\Users\David\Dropbox\Shared\Markable2 copy\trunk\MarkAble2\bin\Release\WMFSDKWrapper.dll
+C:\Users\David\Dropbox\Shared\Markable2 copy\trunk\MarkAble2\bin\Release\AAClib.pdb
+C:\Users\David\Dropbox\Shared\Markable2 copy\trunk\MarkAble2\bin\Release\Interop.iTunesLib.dll
+C:\Users\David\Dropbox\Shared\Markable2 copy\trunk\MarkAble2\obj\Release\MarkAble2.csprojResolveAssemblyReference.cache
+C:\Users\David\Dropbox\Shared\Markable2 copy\trunk\MarkAble2\obj\Release\MarkAble2.frmAsk.resources
+C:\Users\David\Dropbox\Shared\Markable2 copy\trunk\MarkAble2\obj\Release\MarkAble2.frmBatch.resources
+C:\Users\David\Dropbox\Shared\Markable2 copy\trunk\MarkAble2\obj\Release\MarkAble2.frmOptions.resources
+C:\Users\David\Dropbox\Shared\Markable2 copy\trunk\MarkAble2\obj\Release\MarkAble2.frmSelectTracks.resources
+C:\Users\David\Dropbox\Shared\Markable2 copy\trunk\MarkAble2\obj\Release\MarkAble2.frmSeparateMergeChap.resources
+C:\Users\David\Dropbox\Shared\Markable2 copy\trunk\MarkAble2\obj\Release\MarkAble2.frmRegister.resources
+C:\Users\David\Dropbox\Shared\Markable2 copy\trunk\MarkAble2\obj\Release\MarkAble2.frmSeparateProcess.resources
+C:\Users\David\Dropbox\Shared\Markable2 copy\trunk\MarkAble2\obj\Release\MarkAble2.frmSeparate3.resources
+C:\Users\David\Dropbox\Shared\Markable2 copy\trunk\MarkAble2\obj\Release\MarkAble2.frmSeparate2.resources
+C:\Users\David\Dropbox\Shared\Markable2 copy\trunk\MarkAble2\obj\Release\MarkAble2.frmCDinfo.resources
+C:\Users\David\Dropbox\Shared\Markable2 copy\trunk\MarkAble2\obj\Release\MarkAble2.frmCDprocess.resources
+C:\Users\David\Dropbox\Shared\Markable2 copy\trunk\MarkAble2\obj\Release\MarkAble2.frmIntro.resources
+C:\Users\David\Dropbox\Shared\Markable2 copy\trunk\MarkAble2\obj\Release\MarkAble2.frmMergeAndChapter.resources
+C:\Users\David\Dropbox\Shared\Markable2 copy\trunk\MarkAble2\obj\Release\MarkAble2.frmMergeProcess.resources
+C:\Users\David\Dropbox\Shared\Markable2 copy\trunk\MarkAble2\obj\Release\MarkAble2.frmSeparate1.resources
+C:\Users\David\Dropbox\Shared\Markable2 copy\trunk\MarkAble2\obj\Release\MarkAble2.frmSplash.resources
+C:\Users\David\Dropbox\Shared\Markable2 copy\trunk\MarkAble2\obj\Release\MarkAble2.Properties.Resources.resources
+C:\Users\David\Dropbox\Shared\Markable2 copy\trunk\MarkAble2\obj\Release\MarkAble2.frmAsk.de.resources
+C:\Users\David\Dropbox\Shared\Markable2 copy\trunk\MarkAble2\obj\Release\MarkAble2.frmBatch.de.resources
+C:\Users\David\Dropbox\Shared\Markable2 copy\trunk\MarkAble2\obj\Release\MarkAble2.frmCDinfo.de.resources
+C:\Users\David\Dropbox\Shared\Markable2 copy\trunk\MarkAble2\obj\Release\MarkAble2.frmCDprocess.de.resources
+C:\Users\David\Dropbox\Shared\Markable2 copy\trunk\MarkAble2\obj\Release\MarkAble2.frmIntro.de.resources
+C:\Users\David\Dropbox\Shared\Markable2 copy\trunk\MarkAble2\obj\Release\MarkAble2.frmIntro.en.resources
+C:\Users\David\Dropbox\Shared\Markable2 copy\trunk\MarkAble2\obj\Release\MarkAble2.frmMergeAndChapter.de.resources
+C:\Users\David\Dropbox\Shared\Markable2 copy\trunk\MarkAble2\obj\Release\MarkAble2.frmMergeProcess.de.resources
+C:\Users\David\Dropbox\Shared\Markable2 copy\trunk\MarkAble2\obj\Release\MarkAble2.frmOptions.de.resources
+C:\Users\David\Dropbox\Shared\Markable2 copy\trunk\MarkAble2\obj\Release\MarkAble2.frmRegister.de.resources
+C:\Users\David\Dropbox\Shared\Markable2 copy\trunk\MarkAble2\obj\Release\MarkAble2.frmSelectTracks.de.resources
+C:\Users\David\Dropbox\Shared\Markable2 copy\trunk\MarkAble2\obj\Release\MarkAble2.frmSeparate1.de.resources
+C:\Users\David\Dropbox\Shared\Markable2 copy\trunk\MarkAble2\obj\Release\MarkAble2.frmSeparate2.de.resources
+C:\Users\David\Dropbox\Shared\Markable2 copy\trunk\MarkAble2\obj\Release\MarkAble2.frmSeparate3.de.resources
+C:\Users\David\Dropbox\Shared\Markable2 copy\trunk\MarkAble2\obj\Release\MarkAble2.frmSeparateMergeChap.de.resources
+C:\Users\David\Dropbox\Shared\Markable2 copy\trunk\MarkAble2\obj\Release\MarkAble2.frmSeparateProcess.de.resources
+C:\Users\David\Dropbox\Shared\Markable2 copy\trunk\MarkAble2\obj\Release\MarkAble2.frmSplash.de.resources
+C:\Users\David\Dropbox\Shared\Markable2 copy\trunk\MarkAble2\obj\Release\MarkAble2.Properties.Resources.de.resources
+C:\Users\David\Dropbox\Shared\Markable2 copy\trunk\MarkAble2\obj\Release\MarkAble2.csproj.GenerateResource.Cache
+C:\Users\David\Dropbox\Shared\Markable2 copy\trunk\MarkAble2\obj\Release\de\MarkAble2.resources.dll
+C:\Users\David\Dropbox\Shared\Markable2 copy\trunk\MarkAble2\obj\Release\en\MarkAble2.resources.dll
+C:\Users\David\Dropbox\Shared\VSProjects\Markable2\trunk\MarkAble2\bin\Release\MarkAble2.exe.config
+C:\Users\David\Dropbox\Shared\VSProjects\Markable2\trunk\MarkAble2\obj\Release\Interop.iTunesLib.dll
+C:\Users\David\Dropbox\Shared\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.csproj.ResolveComReference.cache
+C:\Users\David\Dropbox\Shared\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.exe
+C:\Users\David\Dropbox\Shared\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.pdb
+C:\Users\David\Dropbox\Shared\VSProjects\Markable2\trunk\MarkAble2\bin\Release\MarkAble2.exe
+C:\Users\David\Dropbox\Shared\VSProjects\Markable2\trunk\MarkAble2\bin\Release\MarkAble2.pdb
+C:\Users\David\Dropbox\Shared\VSProjects\Markable2\trunk\MarkAble2\bin\Release\de\MarkAble2.resources.dll
+C:\Users\David\Dropbox\Shared\VSProjects\Markable2\trunk\MarkAble2\bin\Release\en\MarkAble2.resources.dll
+C:\Users\David\Dropbox\Shared\VSProjects\Markable2\trunk\MarkAble2\bin\Release\AAClib.dll
+C:\Users\David\Dropbox\Shared\VSProjects\Markable2\trunk\MarkAble2\bin\Release\WMFSDKWrapper.dll
+C:\Users\David\Dropbox\Shared\VSProjects\Markable2\trunk\MarkAble2\bin\Release\AAClib.pdb
+C:\Users\David\Dropbox\Shared\VSProjects\Markable2\trunk\MarkAble2\bin\Release\Interop.iTunesLib.dll
+C:\Users\David\Dropbox\Shared\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.csprojResolveAssemblyReference.cache
+C:\Users\David\Dropbox\Shared\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmAsk.resources
+C:\Users\David\Dropbox\Shared\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmBatch.resources
+C:\Users\David\Dropbox\Shared\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmOptions.resources
+C:\Users\David\Dropbox\Shared\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmSelectTracks.resources
+C:\Users\David\Dropbox\Shared\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmSeparateMergeChap.resources
+C:\Users\David\Dropbox\Shared\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmRegister.resources
+C:\Users\David\Dropbox\Shared\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmSeparateProcess.resources
+C:\Users\David\Dropbox\Shared\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmSeparate3.resources
+C:\Users\David\Dropbox\Shared\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmSeparate2.resources
+C:\Users\David\Dropbox\Shared\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmCDinfo.resources
+C:\Users\David\Dropbox\Shared\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmCDprocess.resources
+C:\Users\David\Dropbox\Shared\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmIntro.resources
+C:\Users\David\Dropbox\Shared\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmMergeAndChapter.resources
+C:\Users\David\Dropbox\Shared\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmMergeProcess.resources
+C:\Users\David\Dropbox\Shared\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmSeparate1.resources
+C:\Users\David\Dropbox\Shared\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmSplash.resources
+C:\Users\David\Dropbox\Shared\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.Properties.Resources.resources
+C:\Users\David\Dropbox\Shared\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmAsk.de.resources
+C:\Users\David\Dropbox\Shared\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmBatch.de.resources
+C:\Users\David\Dropbox\Shared\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmCDinfo.de.resources
+C:\Users\David\Dropbox\Shared\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmCDprocess.de.resources
+C:\Users\David\Dropbox\Shared\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmIntro.de.resources
+C:\Users\David\Dropbox\Shared\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmIntro.en.resources
+C:\Users\David\Dropbox\Shared\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmMergeAndChapter.de.resources
+C:\Users\David\Dropbox\Shared\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmMergeProcess.de.resources
+C:\Users\David\Dropbox\Shared\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmOptions.de.resources
+C:\Users\David\Dropbox\Shared\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmRegister.de.resources
+C:\Users\David\Dropbox\Shared\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmSelectTracks.de.resources
+C:\Users\David\Dropbox\Shared\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmSeparate1.de.resources
+C:\Users\David\Dropbox\Shared\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmSeparate2.de.resources
+C:\Users\David\Dropbox\Shared\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmSeparate3.de.resources
+C:\Users\David\Dropbox\Shared\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmSeparateMergeChap.de.resources
+C:\Users\David\Dropbox\Shared\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmSeparateProcess.de.resources
+C:\Users\David\Dropbox\Shared\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.frmSplash.de.resources
+C:\Users\David\Dropbox\Shared\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.Properties.Resources.de.resources
+C:\Users\David\Dropbox\Shared\VSProjects\Markable2\trunk\MarkAble2\obj\Release\MarkAble2.csproj.GenerateResource.Cache
+C:\Users\David\Dropbox\Shared\VSProjects\Markable2\trunk\MarkAble2\obj\Release\de\MarkAble2.resources.dll
+C:\Users\David\Dropbox\Shared\VSProjects\Markable2\trunk\MarkAble2\obj\Release\en\MarkAble2.resources.dll

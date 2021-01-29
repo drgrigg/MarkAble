@@ -1,0 +1,565 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="CDs" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\CDs.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CDs_smaller" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\CDs_smaller.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MP3_small" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MP3_small.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="book_and_whip" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\book and whip.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="markable_spash" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\markable_spash.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="folders_small" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\folders_small.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="neat_book_square" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\neat book square.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="question_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\question_icon.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Importing_audiobook_into_iTunes__please_wait" xml:space="preserve">
+    <value>Importing audiobook into iTunes, please wait!</value>
+  </data>
+  <data name="discnum__of__totdiscs" xml:space="preserve">
+    <value>Disc &lt;discnum&gt; of &lt;totdiscs&gt;</value>
+  </data>
+  <data name="Please_put_Disc__discnum__of_the_set_into_your_CD_drive" xml:space="preserve">
+    <value>Please put Disc &lt;discnum&gt; of the set into your CD drive.  Wait until you can see iTunes list all the tracks, then click on OK.</value>
+  </data>
+  <data name="Processing_tracks" xml:space="preserve">
+    <value>Processing tracks...</value>
+  </data>
+  <data name="Processing_track_trackname" xml:space="preserve">
+    <value>Processing track '&lt;trackname&gt;'</value>
+  </data>
+  <data name="No_CD_tracks_could_be_read" xml:space="preserve">
+    <value>No CD tracks could be read. Please check CD drive and whether iTunes is asking you a question.</value>
+  </data>
+  <data name="No_tracks" xml:space="preserve">
+    <value>No tracks</value>
+  </data>
+  <data name="Please_wait__opening_iTunes" xml:space="preserve">
+    <value>Please wait, opening iTunes...</value>
+  </data>
+  <data name="iTunes_is_not_responding_to_MarkAble_control" xml:space="preserve">
+    <value>iTunes is not responding to MarkAble control.  Minimize MarkAble and check to see if iTunes is attempting to ask you a question.</value>
+  </data>
+  <data name="Unable_to_open_iTunes" xml:space="preserve">
+    <value>Unable to open iTunes!</value>
+  </data>
+  <data name="iTunes_is_still_not_responding" xml:space="preserve">
+    <value>iTunes is still not responding to MarkAble control. Giving up.</value>
+  </data>
+  <data name="iTunes_won_t_respond" xml:space="preserve">
+    <value>iTunes won't respond</value>
+  </data>
+  <data name="iTunes_error" xml:space="preserve">
+    <value>iTunes error</value>
+  </data>
+  <data name="Try_again_query" xml:space="preserve">
+    <value>Try again?</value>
+  </data>
+  <data name="Invalid_track_duration__skipping_track" xml:space="preserve">
+    <value>Invalid track duration, skipping track </value>
+  </data>
+  <data name="Failed_to_transfer_file" xml:space="preserve">
+    <value>Failed to transfer file</value>
+  </data>
+  <data name="Cancelling" xml:space="preserve">
+    <value>Cancelling.  However, you can resume ripping this book at a later time, if you wish.</value>
+  </data>
+  <data name="Cancelled" xml:space="preserve">
+    <value>Cancelled</value>
+  </data>
+  <data name="Converting_this_track_seems_to_be_taking_a_very_long_time" xml:space="preserve">
+    <value>Converting this track seems to be taking a very long time.</value>
+  </data>
+  <data name="Your_iTunes_encoder_preferences_have_been_changed_by_MarkAble" xml:space="preserve">
+    <value>Your iTunes encoder preferences have been changed by MarkAble.</value>
+  </data>
+  <data name="If_you_would_like_us_to_restore_your_previous_settings__please_close_iTunes" xml:space="preserve">
+    <value>If you would like us to restore your previous settings, please close iTunes.</value>
+  </data>
+  <data name="When_it_has_completely_shut_down__click__Yes" xml:space="preserve">
+    <value>When it has completely shut down, click 'Yes'.</value>
+  </data>
+  <data name="Restore_Preferences" xml:space="preserve">
+    <value>Restore Preferences</value>
+  </data>
+  <data name="Unable_to_create_local_app_data_folder" xml:space="preserve">
+    <value>Unable to create local app data folder</value>
+  </data>
+  <data name="Unable_to_create_folder" xml:space="preserve">
+    <value>Unable to create folder</value>
+  </data>
+  <data name="Your_preferred_encoding_rate_has_not_been_set_in_iTunes" xml:space="preserve">
+    <value>Your preferred encoding rate has not been set in iTunes.</value>
+  </data>
+  <data name="If_you_wish_MarkAble_to_set_this_rate__please_close_down_iTunes" xml:space="preserve">
+    <value>If you wish MarkAble to set this rate, please close down iTunes.</value>
+  </data>
+  <data name="When_it_has_fully_closed_down__then_click__Yes__below" xml:space="preserve">
+    <value>When it has fully closed down, then click 'Yes' below.</value>
+  </data>
+  <data name="Otherwise__click__No__now" xml:space="preserve">
+    <value>Otherwise, click 'No' now.</value>
+  </data>
+  <data name="You_won_t_be_asked_again" xml:space="preserve">
+    <value>You won't be asked again.</value>
+  </data>
+  <data name="A_new_version_of_MarkAble_is_available" xml:space="preserve">
+    <value>A new version of MarkAble (version &lt;versionnum&gt;) is available.  Go to the web site to download it now?</value>
+  </data>
+  <data name="It_looks_as_if_you_didn_t_finish_processing_CDs_for_booktitle" xml:space="preserve">
+    <value>It looks as if you didn't finish processing CDs for '&lt;booktitle&gt;' by &lt;author&gt;.</value>
+  </data>
+  <data name="Do_you_want_to_resume_query" xml:space="preserve">
+    <value>Do you want to resume?</value>
+  </data>
+  <data name="Resume_query" xml:space="preserve">
+    <value>Resume?</value>
+  </data>
+  <data name="Files_so_far_ripped_were_encoded_as_filetype" xml:space="preserve">
+    <value>Files so far ripped were encoded as &lt;filetype&gt;.</value>
+  </data>
+  <data name="Your_current_preferences_are_for_encodertype_encoding" xml:space="preserve">
+    <value>Your current preferences are for &lt;encodertype&gt; encoding.</value>
+  </data>
+  <data name="Change_your_options_to_filetype" xml:space="preserve">
+    <value>Change your options to &lt;filetype&gt;?</value>
+  </data>
+  <data name="Saying_No_will_abandon_the_resume" xml:space="preserve">
+    <value>Saying 'No' will abandon the resume</value>
+  </data>
+  <data name="Different_Encoder" xml:space="preserve">
+    <value>Different Encoder</value>
+  </data>
+  <data name="Delete_the_booktitle_project" xml:space="preserve">
+    <value>Delete the '&lt;booktitle&gt;' project?</value>
+  </data>
+  <data name="If_you_say_Yes_you_ll_never_be_prompted_to_resume_this_project_again" xml:space="preserve">
+    <value>If you say 'Yes' you'll never be prompted to resume this project again.</value>
+  </data>
+  <data name="Discard_project_query" xml:space="preserve">
+    <value>Discard project?</value>
+  </data>
+  <data name="It_looks_as_if_you_didn_t_finish_processing_files_for_booktitle" xml:space="preserve">
+    <value>It looks as if you didn't finish processing files for '&lt;booktitle&gt;' by &lt;author&gt;</value>
+  </data>
+  <data name="MarkAble_batch_processing_complete" xml:space="preserve">
+    <value>MarkAble batch processing complete!</value>
+  </data>
+  <data name="Done_exclaim" xml:space="preserve">
+    <value>Done!</value>
+  </data>
+  <data name="Please_set_the_CD_drive_in_Step_1" xml:space="preserve">
+    <value>Please set the CD drive in Step 1</value>
+  </data>
+  <data name="Not_ready" xml:space="preserve">
+    <value>Not ready</value>
+  </data>
+  <data name="Please_set_the_author_s_name_in_Step_4" xml:space="preserve">
+    <value>Please set the author's name in Step 4</value>
+  </data>
+  <data name="Please_set_the_book_s_title_in_Step_3" xml:space="preserve">
+    <value>Please set the book's title in Step 3</value>
+  </data>
+  <data name="We_ll_now_start_to_convert_the_tracks_from_each_disc_to_an__encodertype__format" xml:space="preserve">
+    <value>We'll now start to convert ('rip') the tracks from each disc to an &lt;encodertype&gt; format.  Each disc should take about 2 to 5 minutes to process.</value>
+  </data>
+  <data name="File_will_be_totsize_MB_in_size_duration_hours" xml:space="preserve">
+    <value>File will be &lt;totsize&gt;MB in size, duration &lt;duration&gt; hours.</value>
+  </data>
+  <data name="Each_file_will_be_approx_totsize_MB_in_size" xml:space="preserve">
+    <value>Each file will be approx. &lt;totsize&gt;MB in size.</value>
+  </data>
+  <data name="Each_file_will_be_approx_totsize_MB_in_size_duration_duration" xml:space="preserve">
+    <value>Each file will be approx. &lt;totsize&gt;MB in size, duration &lt;duration&gt; hours.</value>
+  </data>
+  <data name="MP3_files_can_t_have_chapter_stops" xml:space="preserve">
+    <value>MP3 files can't have chapter stops, sorry, but you can set an image which iTunes will use as cover artwork.</value>
+  </data>
+  <data name="Audiobooks_on_the_iPod_can_have_chapter_stops" xml:space="preserve">
+    <value>Audiobooks on the iPod can have chapter stops to make navigation easier.  Choose from the options below:</value>
+  </data>
+  <data name="Unable_to_load_image_exclaim" xml:space="preserve">
+    <value>Unable to load image!</value>
+  </data>
+  <data name="Ignore_this_query" xml:space="preserve">
+    <value>Ignore this?</value>
+  </data>
+  <data name="Files_will_be_too_big_to_play_at_the_current_sampling_rate" xml:space="preserve">
+    <value>Files will be too big to play at the current sampling rate unless you increase the number of parts or you are encoding at a lower rate.</value>
+  </data>
+  <data name="Critical_exclaim" xml:space="preserve">
+    <value>Critical!</value>
+  </data>
+  <data name="Files_will_be_larger_than_recommended_size_and_or_duration" xml:space="preserve">
+    <value>Files will be larger than recommended size and/or duration unless you increase the number of parts.</value>
+  </data>
+  <data name="Warning_exclaim" xml:space="preserve">
+    <value>Warning!</value>
+  </data>
+  <data name="All_MP3_files_have_now_been_converted_to_bookmarking_format" xml:space="preserve">
+    <value>All files have now been converted to bookmarking format and placed into iTunes. Look for the files in your 'Music' folder, genre 'Audiobook'.</value>
+  </data>
+  <data name="Error_copying_file_filename" xml:space="preserve">
+    <value>Error copying file &lt;filename&gt;.</value>
+  </data>
+  <data name="Error_exclaim" xml:space="preserve">
+    <value>Error!</value>
+  </data>
+  <data name="Error_reading_file_filename" xml:space="preserve">
+    <value>Error reading file &lt;filename&gt;</value>
+  </data>
+  <data name="Some_problems_were_encountered_during_merging" xml:space="preserve">
+    <value>Some problems were encountered during merging: </value>
+  </data>
+  <data name="However_processing_continued_and_the_merged_file_may_be_OK" xml:space="preserve">
+    <value>However, processing continued and the merged file may be OK.</value>
+  </data>
+  <data name="Problems" xml:space="preserve">
+    <value>Problems</value>
+  </data>
+  <data name="Unable_to_load_initial_file" xml:space="preserve">
+    <value>Unable to load initial file!</value>
+  </data>
+  <data name="Processing_booktitle_by_author" xml:space="preserve">
+    <value>Processing '&lt;booktitle&gt;' by &lt;author&gt;</value>
+  </data>
+  <data name="File_filenum_of_totfiles" xml:space="preserve">
+    <value>File &lt;filenum&gt; of &lt;totfiles&gt;</value>
+  </data>
+  <data name="Unable_to_create_folder_path" xml:space="preserve">
+    <value>Unable to create folder &lt;path&gt;</value>
+  </data>
+  <data name="Unable_to_move_converted_file_to_path" xml:space="preserve">
+    <value>Unable to move converted file to &lt;path&gt;</value>
+  </data>
+  <data name="Unable_to_set_cover_artwork_and_bookmarking_in_iTunes" xml:space="preserve">
+    <value>Unable to set cover artwork and bookmarking in iTunes. You may need to set this manually.</value>
+  </data>
+  <data name="Sorry_exclaim" xml:space="preserve">
+    <value>Sorry!</value>
+  </data>
+  <data name="Unable_to_delete_prior_copy_path" xml:space="preserve">
+    <value>Unable to delete prior copy &lt;path&gt;</value>
+  </data>
+  <data name="Bad_file_type_in_list" xml:space="preserve">
+    <value>Bad file type in list! : expecting MP3, got &lt;filetype&gt;.</value>
+  </data>
+  <data name="Unable_to_open_path_for_writing" xml:space="preserve">
+    <value>Unable to open &lt;path&gt; for writing!</value>
+  </data>
+  <data name="Are_you_sure_you_want_to_remove_this_project_permanently_from_the_batch_file" xml:space="preserve">
+    <value>Are you sure you want to remove this project permanently from the batch file?</value>
+  </data>
+  <data name="Sure_query" xml:space="preserve">
+    <value>Sure?</value>
+  </data>
+  <data name="The_batch_file_is_now_empty_Delete_it_query" xml:space="preserve">
+    <value>The batch file is now empty.  Delete it?</value>
+  </data>
+  <data name="Empty_exclaim" xml:space="preserve">
+    <value>Empty!</value>
+  </data>
+  <data name="Unable_to_delete_batch_file" xml:space="preserve">
+    <value>Unable to delete batch file!</value>
+  </data>
+  <data name="Unable_to_alter_batch_file" xml:space="preserve">
+    <value>Unable to alter batch file!</value>
+  </data>
+  <data name="Nothing_to_do_exclaim" xml:space="preserve">
+    <value>Nothing to do!</value>
+  </data>
+  <data name="Thanks_for_registering" xml:space="preserve">
+    <value>Thanks for registering!</value>
+  </data>
+  <data name="Success_exclaim" xml:space="preserve">
+    <value>Success!</value>
+  </data>
+  <data name="You_appear_to_have_entered_a_registration_key_for_an_earlier_version_of_MarkAble" xml:space="preserve">
+    <value>You appear to have entered a registration key for an earlier version of MarkAble.</value>
+  </data>
+  <data name="MarkAble_has_been_updated_and_you_will_require_a_new_registration_key" xml:space="preserve">
+    <value>MarkAble has been updated and you will require a new registration key.</value>
+  </data>
+  <data name="Please_visit_webpage_for_more_information" xml:space="preserve">
+    <value>Please visit &lt;webpage&gt; for more information.</value>
+  </data>
+  <data name="Invalid_registration_key_exclaim" xml:space="preserve">
+    <value>Invalid registration key!</value>
+  </data>
+  <data name="You_may_have_selected_too_many_files_at_once" xml:space="preserve">
+    <value>You may have selected too many files at once.</value>
+  </data>
+  <data name="Try_adding_files_in_smaller_groups_or_use_Select_Folder" xml:space="preserve">
+    <value>Try adding files in smaller groups, or use 'Select Folder'</value>
+  </data>
+  <data name="Error_on_opening_files" xml:space="preserve">
+    <value>Error on opening files</value>
+  </data>
+  <data name="Error_adding_file_filename" xml:space="preserve">
+    <value>Error adding file &lt;filename&gt;</value>
+  </data>
+  <data name="Protected_files_encountered" xml:space="preserve">
+    <value>Protected files encountered</value>
+  </data>
+  <data name="All_of_the_files_you_have_selected_are_protected_by_Digital_Rights_Management" xml:space="preserve">
+    <value>All of the files you have selected are protected by Digital Rights Management (DRM).</value>
+  </data>
+  <data name="Unfortunately_ITunes_cannot_process_DRM_protected_files" xml:space="preserve">
+    <value>Unfortunately ITunes (and therefore MarkAble) cannot process DRM protected files.</value>
+  </data>
+  <data name="Process_just_the_unprotected_files_query" xml:space="preserve">
+    <value>Process just the unprotected files?</value>
+  </data>
+  <data name="Some_of_the_files_you_have_selected_are_protected_by_Digital_Rights_Management" xml:space="preserve">
+    <value>Some of the files you have selected are protected by Digital Rights Management (DRM).</value>
+  </data>
+  <data name="No_lists_found" xml:space="preserve">
+    <value>No lists found</value>
+  </data>
+  <data name="Unable_to_open_batch_file" xml:space="preserve">
+    <value>Unable to open batch file</value>
+  </data>
+  <data name="However_you_can_resume_converting_this_book_at_a_later_time_if_you_wish" xml:space="preserve">
+    <value>However, you can resume converting this book at a later time, if you wish.</value>
+  </data>
+  <data name="Please_set_the_creator_s_name_in_Step_4" xml:space="preserve">
+    <value>Please set the creator's name in Step 4</value>
+  </data>
+  <data name="File_will_have_duration_duration_hours_" xml:space="preserve">
+    <value>File will have duration &lt;duration&gt; hours.</value>
+  </data>
+  <data name="Unable_to_determine_file_size_and_duration" xml:space="preserve">
+    <value>Unable to determine file size and duration.</value>
+  </data>
+  <data name="Each_file_will_have_duration_duration_hours" xml:space="preserve">
+    <value>Each file will have duration &lt;duration&gt; hours.</value>
+  </data>
+  <data name="This_batchfile_already_contains_the_following_projects" xml:space="preserve">
+    <value>This batchfile already contains the following projects</value>
+  </data>
+  <data name="Do_you_want_to_continue_query" xml:space="preserve">
+    <value>Do you want to continue?</value>
+  </data>
+  <data name="Add_to_existing_batch_query" xml:space="preserve">
+    <value>Add to existing?</value>
+  </data>
+  <data name="If_you_say_YES__this_project_will_be_added_to_the_existing_batchfile" xml:space="preserve">
+    <value>If you say YES, this project will be added to the existing batchfile. If you say NO, you'll be prompted for a different file name.</value>
+  </data>
+  <data name="Unable_to_save_batch" xml:space="preserve">
+    <value>Unable to save batch</value>
+  </data>
+  <data name="All_files_to_be_processed_appear_to_be_fileformat_files" xml:space="preserve">
+    <value>All files to be processed appear to be &lt;fileformat&gt; files.</value>
+  </data>
+  <data name="If_all_of_these_files_have_been_encoded_the_same_way__you_can_skip_the_conversion_process" xml:space="preserve">
+    <value>If all of these files have been encoded the same way, you can skip the conversion process and go straight to merge.</value>
+  </data>
+  <data name="Skip_conversion_query" xml:space="preserve">
+    <value>Skip conversion?</value>
+  </data>
+  <data name="All_files_are_fileformat" xml:space="preserve">
+    <value>All files are &lt;fileformat&gt;</value>
+  </data>
+  <data name="Ripping_booktitle_by_author" xml:space="preserve">
+    <value>Ripping "&lt;booktitle&gt;" by &lt;author&gt;</value>
+  </data>
+  <data name="We_re_now_converting_all_the_audio_files_into_fileformat_format" xml:space="preserve">
+    <value>We're now converting all the audio files into &lt;fileformat&gt; format.  This can take quite a long while!</value>
+  </data>
+  <data name="Processing_file_path" xml:space="preserve">
+    <value>Processing file '&lt;path&gt;'</value>
+  </data>
+  <data name="Converting_booktitle_by_author" xml:space="preserve">
+    <value>Converting '&lt;booktitle&gt;' by &lt;author&gt;</value>
+  </data>
+  <data name="Eg_colon" xml:space="preserve">
+    <value>Eg: </value>
+  </data>
+  <data name="Do_you_want_MarkAble_to_change_the_iTunes_encoder_rate_now_query" xml:space="preserve">
+    <value>Do you want MarkAble to change the iTunes encoder rate now?</value>
+  </data>
+  <data name="If_so__and_if_iTunes_is_running_quit_iTunes" xml:space="preserve">
+    <value>If so, and if iTunes is running, quit iTunes and when it has fully closed down, click on 'Yes'.</value>
+  </data>
+  <data name="Change_now_query" xml:space="preserve">
+    <value>Change now?</value>
+  </data>
+  <data name="Choose_a_short_sound_file" xml:space="preserve">
+    <value>Choose a short sound file</value>
+  </data>
+  <data name="Each" xml:space="preserve">
+    <value>each</value>
+  </data>
+  <data name="Every" xml:space="preserve">
+    <value>every</value>
+  </data>
+  <data name="Ordinal_nd" xml:space="preserve">
+    <value>nd</value>
+  </data>
+  <data name="Ordinal_rd" xml:space="preserve">
+    <value>rd</value>
+  </data>
+  <data name="Ordinal_st" xml:space="preserve">
+    <value>st</value>
+  </data>
+  <data name="Ordinal_th" xml:space="preserve">
+    <value>th</value>
+  </data>
+  <data name="Evaluation_expired" xml:space="preserve">
+    <value>Sorry, your evaluation period has now expired.</value>
+  </data>
+  <data name="Evaluation_remaining" xml:space="preserve">
+    <value>You have &lt;days&gt; days remaining</value>
+  </data>
+  <data name="Registered_to" xml:space="preserve">
+    <value>Registered to</value>
+  </data>
+  <data name="Unregistered" xml:space="preserve">
+    <value>Unregistered</value>
+  </data>
+  <data name="Could_not_find_some_of_the_files_in_project_booktitle" xml:space="preserve">
+    <value>Could not find some of the files in project &lt;booktitle&gt;.</value>
+  </data>
+  <data name="Remove_the_project_from_the_batch_query" xml:space="preserve">
+    <value>Remove the project from the batch?</value>
+  </data>
+  <data name="Missing_files" xml:space="preserve">
+    <value>Missing files</value>
+  </data>
+  <data name="Unable_to_delete_existing_file_path" xml:space="preserve">
+    <value>Unable to delete existing file &lt;path&gt;</value>
+  </data>
+  <data name="Project_added_to_batch" xml:space="preserve">
+    <value>The project was added to the batch file</value>
+  </data>
+</root>

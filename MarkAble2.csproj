@@ -1,0 +1,380 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{AA61FCD3-714F-462B-912E-989179E50C15}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MarkAble2</RootNamespace>
+    <AssemblyName>MarkAble2</AssemblyName>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <StartupObject>MarkAble2.Program</StartupObject>
+    <ApplicationIcon>MarkAble.ico</ApplicationIcon>
+    <SignManifests>true</SignManifests>
+    <ManifestCertificateThumbprint>F6FDDC127B11CBFD513A78DD184F2B5A982B488D</ManifestCertificateThumbprint>
+    <ManifestKeyFile>
+    </ManifestKeyFile>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AudioFileItem.cs" />
+    <Compile Include="BadFiles.cs" />
+    <Compile Include="BatchList.cs" />
+    <Compile Include="CDFileList.cs" />
+    <Compile Include="CDTrackRecord.cs" />
+    <Compile Include="Descriptor.cs" />
+    <Compile Include="frmAsk.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAsk.Designer.cs">
+      <DependentUpon>frmAsk.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBatch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBatch.Designer.cs">
+      <DependentUpon>frmBatch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmOptions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmOptions.Designer.cs">
+      <DependentUpon>frmOptions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSelectTracks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSelectTracks.Designer.cs">
+      <DependentUpon>frmSelectTracks.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSeparateMergeChap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSeparateMergeChap.Designer.cs">
+      <DependentUpon>frmSeparateMergeChap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRegister.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRegister.designer.cs">
+      <DependentUpon>frmRegister.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSeparateProcess.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSeparateProcess.Designer.cs">
+      <DependentUpon>frmSeparateProcess.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSeparate3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSeparate3.Designer.cs">
+      <DependentUpon>frmSeparate3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSplash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSplash.designer.cs">
+      <DependentUpon>frmSplash.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PictureRec.cs" />
+    <Compile Include="PictureRecs.cs" />
+    <Compile Include="SeparateRecord.cs" />
+    <Compile Include="SoundPlayer.cs" />
+    <Compile Include="SeparateFileList.cs" />
+    <Compile Include="PathComparer.cs" />
+    <Compile Include="frmSeparate2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSeparate2.Designer.cs">
+      <DependentUpon>frmSeparate2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FileListCollection.cs" />
+    <Compile Include="FileNameComparer.cs" />
+    <Compile Include="FileRecord.cs" />
+    <Compile Include="FileList.cs" />
+    <Compile Include="frmCDinfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCDinfo.Designer.cs">
+      <DependentUpon>frmCDinfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCDprocess.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCDprocess.Designer.cs">
+      <DependentUpon>frmCDprocess.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmIntro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmIntro.Designer.cs">
+      <DependentUpon>frmIntro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMergeAndChapter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMergeAndChapter.Designer.cs">
+      <DependentUpon>frmMergeAndChapter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMergeProcess.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMergeProcess.Designer.cs">
+      <DependentUpon>frmMergeProcess.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSeparate1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSeparate1.Designer.cs">
+      <DependentUpon>frmSeparate1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ImageTools.cs" />
+    <Compile Include="iTunesApp.cs" />
+    <Compile Include="Global.cs" />
+    <Compile Include="MCIClass.cs" />
+    <Compile Include="mp3file.cs" />
+    <Compile Include="OptionClass.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmAsk.de.resx">
+      <DependentUpon>frmAsk.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAsk.resx">
+      <DependentUpon>frmAsk.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBatch.de.resx">
+      <DependentUpon>frmBatch.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBatch.resx">
+      <DependentUpon>frmBatch.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCDinfo.de.resx">
+      <DependentUpon>frmCDinfo.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCDprocess.de.resx">
+      <DependentUpon>frmCDprocess.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmIntro.de.resx">
+      <DependentUpon>frmIntro.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmIntro.en.resx">
+      <DependentUpon>frmIntro.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMergeAndChapter.de.resx">
+      <DependentUpon>frmMergeAndChapter.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMergeProcess.de.resx">
+      <DependentUpon>frmMergeProcess.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmOptions.de.resx">
+      <DependentUpon>frmOptions.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmOptions.resx">
+      <DependentUpon>frmOptions.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRegister.de.resx">
+      <DependentUpon>frmRegister.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSelectTracks.de.resx">
+      <DependentUpon>frmSelectTracks.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSelectTracks.resx">
+      <DependentUpon>frmSelectTracks.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSeparate1.de.resx">
+      <DependentUpon>frmSeparate1.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSeparate2.de.resx">
+      <DependentUpon>frmSeparate2.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSeparate3.de.resx">
+      <DependentUpon>frmSeparate3.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSeparateMergeChap.de.resx">
+      <DependentUpon>frmSeparateMergeChap.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSeparateMergeChap.resx">
+      <DependentUpon>frmSeparateMergeChap.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRegister.resx">
+      <DependentUpon>frmRegister.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSeparateProcess.de.resx">
+      <DependentUpon>frmSeparateProcess.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSeparateProcess.resx">
+      <DependentUpon>frmSeparateProcess.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSeparate3.resx">
+      <DependentUpon>frmSeparate3.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSeparate2.resx">
+      <DependentUpon>frmSeparate2.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCDinfo.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmCDinfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCDprocess.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmCDprocess.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmIntro.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmIntro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMergeAndChapter.resx">
+      <DependentUpon>frmMergeAndChapter.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMergeProcess.resx">
+      <DependentUpon>frmMergeProcess.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSeparate1.resx">
+      <DependentUpon>frmSeparate1.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSplash.de.resx">
+      <DependentUpon>frmSplash.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSplash.resx">
+      <DependentUpon>frmSplash.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.de.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Registration.cs" />
+    <Compile Include="TrackInfo.cs" />
+    <Compile Include="TrackOrFileInterval.cs" />
+    <Compile Include="TrackList.cs" />
+    <Compile Include="VersionCheck.cs" />
+    <Compile Include="WAVfile.cs" />
+    <Compile Include="wmaMetaData.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="MarkAble.ico" />
+    <None Include="app.config" />
+    <None Include="Resources\question_icon.png" />
+    <None Include="Resources\markable_spash.png" />
+    <None Include="Resources\book and whip.png" />
+    <None Include="Resources\neat book square.jpg" />
+    <None Include="Resources\MP3_small.png" />
+    <None Include="Resources\folders_small.png" />
+    <None Include="Resources\CDs_smaller.png" />
+    <None Include="Resources\CDs.png" />
+    <None Include="rightwordsoft.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AAClib\AAClib\AAClib.csproj">
+      <Project>{3b0a6356-5364-4f9d-b259-651d86ed21c5}</Project>
+      <Name>AAClib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\wrapper\WMFSDKWrapper.csproj">
+      <Project>{655F362E-A35B-4143-80F0-312A6B9C57E5}</Project>
+      <Name>WMFSDKWrapper</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="iTunesLib">
+      <Guid>{9E93C96F-CF0D-43F6-8BA8-B807A3370712}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>13</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
